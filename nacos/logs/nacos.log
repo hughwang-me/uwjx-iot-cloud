@@ -1,0 +1,88 @@
+2020-08-06 16:26:57,593 INFO Starting Nacos v1.3.1 on SallyGardens with PID 22932 (F:\uwjx_workspace\uwjx-iot-cloud\nacos\target\nacos-server.jar started by SalleyGardens in F:\uwjx_workspace\uwjx-iot-cloud\nacos\bin)
+
+2020-08-06 16:26:57,595 INFO The following profiles are active: standalone
+
+2020-08-06 16:27:06,760 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$75b30db4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-06 16:27:06,879 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-06 16:27:06,893 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@5c45d770' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-06 16:27:06,896 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$9a87b066] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-06 16:27:06,900 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-06 16:27:08,712 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-08-06 16:27:08,741 INFO Starting service [Tomcat]
+
+2020-08-06 16:27:08,742 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-08-06 16:27:08,760 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;F:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_211\bin;F:\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\GNU\GnuPG\pub;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;F:\android-sdk\platform-tools;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Users\SalleyGardens\AppData\Local\Microsoft\WindowsApps;C:\Users\SalleyGardens\AppData\Roaming\npm;C:\Users\SalleyGardens\AppData\Local\atom\bin;C:\Users\SalleyGardens\AppData\Local\Yarn\bin;C:\Users\SalleyGardens\AppData\Roaming\Composer\vendor\bin;C:\Users\SalleyGardens\AppData\Local\GitHubDesktop\bin;.]
+
+2020-08-06 16:27:08,982 INFO Initializing Spring embedded WebApplicationContext
+
+2020-08-06 16:27:08,982 INFO Root WebApplicationContext: initialization completed in 11245 ms
+
+2020-08-06 16:27:10,295 WARN HikariPool-1 - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+
+2020-08-06 16:27:10,295 INFO HikariPool-1 - Starting...
+
+2020-08-06 16:27:10,304 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2020-08-06 16:27:11,133 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2020-08-06 16:27:11,145 INFO HikariPool-1 - Start completed.
+
+2020-08-06 16:27:13,346 INFO Nacos-related cluster resource initialization
+
+2020-08-06 16:27:13,357 INFO The cluster resource is initialized
+
+2020-08-06 16:27:13,808 INFO Reflections took 55 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2020-08-06 16:27:13,843 INFO Reflections took 4 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2020-08-06 16:27:13,850 INFO Reflections took 4 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2020-08-06 16:27:15,511 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-08-06 16:27:15,731 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-08-06 16:27:16,543 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-08-06 16:27:16,619 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@32057e6, org.springframework.security.web.context.SecurityContextPersistenceFilter@47428937, org.springframework.security.web.header.HeaderWriterFilter@64da2a7, org.springframework.security.web.csrf.CsrfFilter@724f138e, org.springframework.security.web.authentication.logout.LogoutFilter@1b0a7baf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7caa550, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@22c86919, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@26be6ca7, org.springframework.security.web.session.SessionManagementFilter@d78795, org.springframework.security.web.access.ExceptionTranslationFilter@32fe9d0a]
+
+2020-08-06 16:27:16,883 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-08-06 16:27:16,910 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-08-06 16:27:17,107 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-08-06 16:27:17,112 INFO Started Nacos in 22.183 seconds (JVM running for 23.329)
+
+2020-08-06 16:27:17,112 INFO Nacos Log files: F:\uwjx_workspace\uwjx-iot-cloud\nacos\logs
+
+2020-08-06 16:27:17,114 INFO Nacos Log files: F:\uwjx_workspace\uwjx-iot-cloud\nacos\conf
+
+2020-08-06 16:27:17,115 INFO Nacos Log files: F:\uwjx_workspace\uwjx-iot-cloud\nacos\data
+
+2020-08-06 16:27:17,116 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2020-08-06 16:37:14,179 INFO [capacityManagement] start correct usage
+
+2020-08-06 16:37:14,193 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-06 16:37:14,603 WARN clearConfigHistory start
+
+2020-08-06 16:40:55,627 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-08-06 16:40:55,627 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-08-06 16:40:55,640 INFO Completed initialization in 12 ms
+
+2020-08-06 16:47:14,194 INFO [capacityManagement] start correct usage
+
+2020-08-06 16:47:14,194 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-06 16:47:14,612 WARN clearConfigHistory start
+

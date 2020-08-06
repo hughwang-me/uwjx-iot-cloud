@@ -1,0 +1,84 @@
+2020-08-05 12:24:41,738 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 12:24:41,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_true,
+
+2020-08-05 12:26:16,710 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596601556732
+
+2020-08-05 12:26:31,870 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 12:26:31,870 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 
+
+2020-08-05 12:29:24,889 INFO DEFAULT_GROUP@@shanheng-iot-web-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 12:29:24,889 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-web-api, ips: 10.0.75.1:8091_true,
+
+2020-08-05 12:30:16,955 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 12:30:16,955 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_true,
+
+2020-08-05 12:30:28,744 INFO DEFAULT_GROUP@@shanheng-iot-app-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8092:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 12:30:28,744 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-app-api, ips: 10.0.75.1:8092_true,
+
+2020-08-05 12:31:11,541 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-app-api, ips: 10.0.75.1:8092_true,
+
+2020-08-05 13:01:01,908 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_true,
+
+2020-08-05 13:04:17,262 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596603842008
+
+2020-08-05 13:04:32,267 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 13:04:32,267 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 
+
+2020-08-05 13:08:19,706 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 13:08:19,706 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_true,
+
+2020-08-05 13:14:39,760 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596604459887
+
+2020-08-05 13:14:40,887 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_false,
+
+2020-08-05 13:14:45,887 INFO service: DEFAULT_GROUP@@shanheng-iot-gateway {POS} {IP-ENABLED} valid: 10.0.75.1:8090@DEFAULT, region: unknown, msg: client beat ok
+
+2020-08-05 13:18:04,247 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_true,
+
+2020-08-05 13:19:09,800 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596604734272
+
+2020-08-05 13:19:12,402 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_false,
+
+2020-08-05 13:19:17,402 INFO service: DEFAULT_GROUP@@shanheng-iot-gateway {POS} {IP-ENABLED} valid: 10.0.75.1:8090@DEFAULT, region: unknown, msg: client beat ok
+
+2020-08-05 13:20:19,811 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596604802425
+
+2020-08-05 13:20:20,875 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_false,
+
+2020-08-05 13:20:25,875 INFO service: DEFAULT_GROUP@@shanheng-iot-gateway {POS} {IP-ENABLED} valid: 10.0.75.1:8090@DEFAULT, region: unknown, msg: client beat ok
+
+2020-08-05 13:22:44,843 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596604945950
+
+2020-08-05 13:22:47,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_false,
+
+2020-08-05 13:22:52,868 INFO service: DEFAULT_GROUP@@shanheng-iot-gateway {POS} {IP-ENABLED} valid: 10.0.75.1:8090@DEFAULT, region: unknown, msg: client beat ok
+
+2020-08-05 13:24:04,860 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596605027902
+
+2020-08-05 13:24:19,868 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 13:24:19,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 
+
+2020-08-05 13:24:30,861 INFO DEFAULT_GROUP@@shanheng-iot-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 13:24:30,861 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_true,
+
+2020-08-05 13:28:59,917 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596605320995
+
+2020-08-05 13:29:00,574 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_false,
+
+2020-08-05 13:29:05,575 INFO service: DEFAULT_GROUP@@shanheng-iot-gateway {POS} {IP-ENABLED} valid: 10.0.75.1:8090@DEFAULT, region: unknown, msg: client beat ok
+
+2020-08-05 13:30:54,932 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8090@DEFAULT@DEFAULT_GROUP@@shanheng-iot-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596605435627
+
+2020-08-05 13:30:55,966 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shanheng-iot-gateway, ips: 10.0.75.1:8090_false,
+
+2020-08-05 13:31:00,967 INFO service: DEFAULT_GROUP@@shanheng-iot-gateway {POS} {IP-ENABLED} valid: 10.0.75.1:8090@DEFAULT, region: unknown, msg: client beat ok
+

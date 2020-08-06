@@ -1,0 +1,24 @@
+2020-08-06 16:41:46,240 INFO DEFAULT_GROUP@@uwjx-iot-cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8180:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-06 16:41:46,242 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uwjx-iot-cloud-gateway, ips: 10.0.75.1:8180_true,
+
+2020-08-06 16:43:57,071 INFO DEFAULT_GROUP@@uwjx-iot-cloud-app-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8182:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-06 16:43:57,071 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uwjx-iot-cloud-app-api, ips: 10.0.75.1:8182_true,
+
+2020-08-06 16:44:25,414 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-06 16:44:25,415 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api, ips: 10.0.75.1:8181_true,
+
+2020-08-06 16:48:20,453 INFO {POS} {IP-DISABLED} valid: 10.0.75.1:8181@DEFAULT@DEFAULT_GROUP@@uwjx-iot-cloud-web-api, region: unknown, msg: client timeout after 15000, last beat: 1596703680548
+
+2020-08-06 16:48:35,592 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.0.75.1:8181:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-06 16:48:35,592 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api, ips: 
+
+2020-08-06 16:49:02,004 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.0.75.1:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-06 16:49:02,005 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api, ips: 10.0.75.1:8181_true,
+
+2020-08-06 16:50:40,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api, ips: 10.0.75.1:8181_true,
+

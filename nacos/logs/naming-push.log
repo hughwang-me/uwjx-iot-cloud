@@ -1,0 +1,44 @@
+2020-08-06 16:41:47,243 INFO DEFAULT_GROUP@@uwjx-iot-cloud-gateway is changed, add it to push queue.
+
+2020-08-06 16:41:47,270 INFO serviceName: DEFAULT_GROUP@@uwjx-iot-cloud-gateway changed, schedule push for: 10.0.75.1:51168, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,51168,21276121881300
+
+2020-08-06 16:41:47,270 INFO send udp packet: 10.0.75.1,51168,21276121881300
+
+2020-08-06 16:41:47,298 INFO received ack: {"type": "push-ack", "lastRefTime":"21276121881300", "data":""} from: 10.0.75.1:51168, cost: 28 ms, unacked: 0, total push: 1
+
+2020-08-06 16:43:58,073 INFO DEFAULT_GROUP@@uwjx-iot-cloud-app-api is changed, add it to push queue.
+
+2020-08-06 16:44:26,415 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api is changed, add it to push queue.
+
+2020-08-06 16:48:21,453 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api is changed, add it to push queue.
+
+2020-08-06 16:48:21,453 INFO serviceName: DEFAULT_GROUP@@uwjx-iot-cloud-web-api changed, schedule push for: 10.0.75.1:51168, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,51168,21670320017500
+
+2020-08-06 16:48:21,453 INFO send udp packet: 10.0.75.1,51168,21670320017500
+
+2020-08-06 16:48:21,454 INFO received ack: {"type": "push-ack", "lastRefTime":"21670320017500", "data":""} from: 10.0.75.1:51168, cost: 1 ms, unacked: 0, total push: 2
+
+2020-08-06 16:48:36,594 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api is changed, add it to push queue.
+
+2020-08-06 16:48:36,594 INFO serviceName: DEFAULT_GROUP@@uwjx-iot-cloud-web-api changed, schedule push for: 10.0.75.1:51168, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,51168,21685460078800
+
+2020-08-06 16:48:36,594 INFO send udp packet: 10.0.75.1,51168,21685460078800
+
+2020-08-06 16:48:36,597 INFO received ack: {"type": "push-ack", "lastRefTime":"21685460078800", "data":""} from: 10.0.75.1:51168, cost: 3 ms, unacked: 0, total push: 3
+
+2020-08-06 16:49:03,007 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api is changed, add it to push queue.
+
+2020-08-06 16:49:03,007 INFO serviceName: DEFAULT_GROUP@@uwjx-iot-cloud-web-api changed, schedule push for: 10.0.75.1:51168, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,51168,21711873459800
+
+2020-08-06 16:49:03,007 INFO send udp packet: 10.0.75.1,51168,21711873459800
+
+2020-08-06 16:49:03,009 INFO received ack: {"type": "push-ack", "lastRefTime":"21711873459800", "data":""} from: 10.0.75.1:51168, cost: 2 ms, unacked: 0, total push: 4
+
+2020-08-06 16:50:41,426 INFO DEFAULT_GROUP@@uwjx-iot-cloud-web-api is changed, add it to push queue.
+
+2020-08-06 16:50:41,426 INFO serviceName: DEFAULT_GROUP@@uwjx-iot-cloud-web-api changed, schedule push for: 10.0.75.1:51168, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,51168,21810292114800
+
+2020-08-06 16:50:41,426 INFO send udp packet: 10.0.75.1,51168,21810292114800
+
+2020-08-06 16:50:41,427 INFO received ack: {"type": "push-ack", "lastRefTime":"21810292114800", "data":""} from: 10.0.75.1:51168, cost: 1 ms, unacked: 0, total push: 5
+

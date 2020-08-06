@@ -1,0 +1,218 @@
+2020-08-05 12:24:42,742 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 12:24:42,771 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:54864, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,54864,11227622746200
+
+2020-08-05 12:24:42,771 INFO send udp packet: 10.0.75.1,54864,11227622746200
+
+2020-08-05 12:24:42,799 INFO received ack: {"type": "push-ack", "lastRefTime":"11227622746200", "data":""} from: 10.0.75.1:54864, cost: 28 ms, unacked: 0, total push: 1
+
+2020-08-05 12:26:17,711 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 12:26:32,871 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 12:29:25,890 INFO DEFAULT_GROUP@@shanheng-iot-web-api is changed, add it to push queue.
+
+2020-08-05 12:30:13,007 WARN client: 10.0.75.1:55257 already associated with key serviceName: DEFAULT_GROUP@@shanheng-iot-web-api, clusters: , address: /10.0.75.1:55257, agent: Nacos-Java-Client:v1.2.1
+
+2020-08-05 12:30:13,007 WARN client: 10.0.75.1:55257 already associated with key serviceName: DEFAULT_GROUP@@shanheng-iot-web-api, clusters: , address: /10.0.75.1:55257, agent: Nacos-Java-Client:v1.2.1
+
+2020-08-05 12:30:17,956 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 12:30:17,956 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:55257, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,55257,11562823734600
+
+2020-08-05 12:30:17,956 INFO send udp packet: 10.0.75.1,55257,11562823734600
+
+2020-08-05 12:30:17,960 INFO received ack: {"type": "push-ack", "lastRefTime":"11562823734600", "data":""} from: 10.0.75.1:55257, cost: 4 ms, unacked: 0, total push: 2
+
+2020-08-05 12:30:29,746 INFO DEFAULT_GROUP@@shanheng-iot-app-api is changed, add it to push queue.
+
+2020-08-05 12:31:12,543 INFO DEFAULT_GROUP@@shanheng-iot-app-api is changed, add it to push queue.
+
+2020-08-05 12:31:12,543 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-app-api changed, schedule push for: 10.0.75.1:55257, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,55257,11617409851300
+
+2020-08-05 12:31:12,543 INFO send udp packet: 10.0.75.1,55257,11617409851300
+
+2020-08-05 12:31:12,545 INFO received ack: {"type": "push-ack", "lastRefTime":"11617409851300", "data":""} from: 10.0.75.1:55257, cost: 2 ms, unacked: 0, total push: 3
+
+2020-08-05 13:00:58,627 WARN client: 10.0.75.1:57053 already associated with key serviceName: DEFAULT_GROUP@@shanheng-iot-web-api, clusters: , address: /10.0.75.1:57053, agent: Nacos-Java-Client:v1.2.1
+
+2020-08-05 13:01:02,908 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:01:02,908 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:57053, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,57053,13407775433400
+
+2020-08-05 13:01:02,908 INFO send udp packet: 10.0.75.1,57053,13407775433400
+
+2020-08-05 13:01:02,910 INFO received ack: {"type": "push-ack", "lastRefTime":"13407775433400", "data":""} from: 10.0.75.1:57053, cost: 2 ms, unacked: 0, total push: 4
+
+2020-08-05 13:04:18,263 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:04:33,269 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:08:20,707 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:08:20,707 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:49166, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,49166,13845574319400
+
+2020-08-05 13:08:20,707 INFO send udp packet: 10.0.75.1,49166,13845574319400
+
+2020-08-05 13:08:20,710 INFO received ack: {"type": "push-ack", "lastRefTime":"13845574319400", "data":""} from: 10.0.75.1:49166, cost: 3 ms, unacked: 0, total push: 5
+
+2020-08-05 13:14:40,761 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:14:40,761 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:63054, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,63054,14225628444200
+
+2020-08-05 13:14:40,761 INFO send udp packet: 10.0.75.1,63054,14225628444200
+
+2020-08-05 13:14:40,764 INFO received ack: {"type": "push-ack", "lastRefTime":"14225628444200", "data":""} from: 10.0.75.1:63054, cost: 3 ms, unacked: 0, total push: 6
+
+2020-08-05 13:14:41,889 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:14:41,889 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:63054, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,63054,14226756036200
+
+2020-08-05 13:14:41,889 INFO send udp packet: 10.0.75.1,63054,14226756036200
+
+2020-08-05 13:14:41,891 INFO received ack: {"type": "push-ack", "lastRefTime":"14226756036200", "data":""} from: 10.0.75.1:63054, cost: 2 ms, unacked: 0, total push: 7
+
+2020-08-05 13:14:46,889 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:14:46,889 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:63054, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,63054,14231756050900
+
+2020-08-05 13:14:46,889 INFO send udp packet: 10.0.75.1,63054,14231756050900
+
+2020-08-05 13:14:46,890 INFO received ack: {"type": "push-ack", "lastRefTime":"14231756050900", "data":""} from: 10.0.75.1:63054, cost: 1 ms, unacked: 0, total push: 8
+
+2020-08-05 13:18:05,249 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:18:05,249 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:53404, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,53404,14430115979900
+
+2020-08-05 13:18:05,249 INFO send udp packet: 10.0.75.1,53404,14430115979900
+
+2020-08-05 13:18:05,252 INFO received ack: {"type": "push-ack", "lastRefTime":"14430115979900", "data":""} from: 10.0.75.1:53404, cost: 3 ms, unacked: 0, total push: 9
+
+2020-08-05 13:19:10,801 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:19:10,801 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:64677, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,64677,14495668170900
+
+2020-08-05 13:19:10,801 INFO send udp packet: 10.0.75.1,64677,14495668170900
+
+2020-08-05 13:19:10,804 INFO received ack: {"type": "push-ack", "lastRefTime":"14495668170900", "data":""} from: 10.0.75.1:64677, cost: 3 ms, unacked: 0, total push: 10
+
+2020-08-05 13:19:13,403 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:19:13,403 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:64677, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,64677,14498270156800
+
+2020-08-05 13:19:13,403 INFO send udp packet: 10.0.75.1,64677,14498270156800
+
+2020-08-05 13:19:13,404 INFO received ack: {"type": "push-ack", "lastRefTime":"14498270156800", "data":""} from: 10.0.75.1:64677, cost: 1 ms, unacked: 0, total push: 11
+
+2020-08-05 13:19:18,404 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:19:18,404 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:64677, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,64677,14503270913000
+
+2020-08-05 13:19:18,404 INFO send udp packet: 10.0.75.1,64677,14503270913000
+
+2020-08-05 13:19:18,405 INFO received ack: {"type": "push-ack", "lastRefTime":"14503270913000", "data":""} from: 10.0.75.1:64677, cost: 1 ms, unacked: 0, total push: 12
+
+2020-08-05 13:20:17,121 WARN client: 10.0.75.1:50974 already associated with key serviceName: DEFAULT_GROUP@@shanheng-iot-web-api, clusters: , address: /10.0.75.1:50974, agent: Nacos-Java-Client:v1.2.1
+
+2020-08-05 13:20:17,121 WARN client: 10.0.75.1:50974 already associated with key serviceName: DEFAULT_GROUP@@shanheng-iot-web-api, clusters: , address: /10.0.75.1:50974, agent: Nacos-Java-Client:v1.2.1
+
+2020-08-05 13:20:20,813 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:20:20,813 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:50974, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,50974,14565680128400
+
+2020-08-05 13:20:20,813 INFO send udp packet: 10.0.75.1,50974,14565680128400
+
+2020-08-05 13:20:20,816 INFO received ack: {"type": "push-ack", "lastRefTime":"14565680128400", "data":""} from: 10.0.75.1:50974, cost: 3 ms, unacked: 0, total push: 13
+
+2020-08-05 13:20:21,876 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:20:21,876 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:50974, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,50974,14566743217700
+
+2020-08-05 13:20:21,876 INFO send udp packet: 10.0.75.1,50974,14566743217700
+
+2020-08-05 13:20:21,878 INFO received ack: {"type": "push-ack", "lastRefTime":"14566743217700", "data":""} from: 10.0.75.1:50974, cost: 2 ms, unacked: 0, total push: 14
+
+2020-08-05 13:20:26,876 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:20:26,876 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:50974, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,50974,14571743253100
+
+2020-08-05 13:20:26,876 INFO send udp packet: 10.0.75.1,50974,14571743253100
+
+2020-08-05 13:20:26,877 INFO received ack: {"type": "push-ack", "lastRefTime":"14571743253100", "data":""} from: 10.0.75.1:50974, cost: 1 ms, unacked: 0, total push: 15
+
+2020-08-05 13:22:45,844 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:22:45,844 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:49563, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,49563,14710711043900
+
+2020-08-05 13:22:45,844 INFO send udp packet: 10.0.75.1,49563,14710711043900
+
+2020-08-05 13:22:45,847 INFO received ack: {"type": "push-ack", "lastRefTime":"14710711043900", "data":""} from: 10.0.75.1:49563, cost: 3 ms, unacked: 0, total push: 16
+
+2020-08-05 13:22:48,870 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:22:48,870 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:49563, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,49563,14713736917000
+
+2020-08-05 13:22:48,870 INFO send udp packet: 10.0.75.1,49563,14713736917000
+
+2020-08-05 13:22:48,871 INFO received ack: {"type": "push-ack", "lastRefTime":"14713736917000", "data":""} from: 10.0.75.1:49563, cost: 1 ms, unacked: 0, total push: 17
+
+2020-08-05 13:22:53,869 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:22:53,869 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:49563, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,49563,14718735940100
+
+2020-08-05 13:22:53,869 INFO send udp packet: 10.0.75.1,49563,14718735940100
+
+2020-08-05 13:22:53,870 INFO received ack: {"type": "push-ack", "lastRefTime":"14718735940100", "data":""} from: 10.0.75.1:49563, cost: 1 ms, unacked: 0, total push: 18
+
+2020-08-05 13:24:05,861 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:24:20,870 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:24:31,863 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:24:31,863 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:55785, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,55785,14816729916900
+
+2020-08-05 13:24:31,863 INFO send udp packet: 10.0.75.1,55785,14816729916900
+
+2020-08-05 13:24:31,868 INFO received ack: {"type": "push-ack", "lastRefTime":"14816729916900", "data":""} from: 10.0.75.1:55785, cost: 5 ms, unacked: 0, total push: 19
+
+2020-08-05 13:29:00,918 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:29:00,918 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:64537, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,64537,15085785259300
+
+2020-08-05 13:29:00,918 INFO send udp packet: 10.0.75.1,64537,15085785259300
+
+2020-08-05 13:29:00,920 INFO received ack: {"type": "push-ack", "lastRefTime":"15085785259300", "data":""} from: 10.0.75.1:64537, cost: 2 ms, unacked: 0, total push: 20
+
+2020-08-05 13:29:06,577 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:29:06,577 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:64537, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,64537,15091444449500
+
+2020-08-05 13:29:06,577 INFO send udp packet: 10.0.75.1,64537,15091444449500
+
+2020-08-05 13:29:06,578 INFO received ack: {"type": "push-ack", "lastRefTime":"15091444449500", "data":""} from: 10.0.75.1:64537, cost: 1 ms, unacked: 0, total push: 21
+
+2020-08-05 13:30:55,933 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:30:55,933 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:52424, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,52424,15200800495600
+
+2020-08-05 13:30:55,933 INFO send udp packet: 10.0.75.1,52424,15200800495600
+
+2020-08-05 13:30:55,936 INFO received ack: {"type": "push-ack", "lastRefTime":"15200800495600", "data":""} from: 10.0.75.1:52424, cost: 3 ms, unacked: 0, total push: 22
+
+2020-08-05 13:30:56,967 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:30:56,967 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:52424, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,52424,15201834606600
+
+2020-08-05 13:30:56,967 INFO send udp packet: 10.0.75.1,52424,15201834606600
+
+2020-08-05 13:30:56,969 INFO received ack: {"type": "push-ack", "lastRefTime":"15201834606600", "data":""} from: 10.0.75.1:52424, cost: 2 ms, unacked: 0, total push: 23
+
+2020-08-05 13:31:01,969 INFO DEFAULT_GROUP@@shanheng-iot-gateway is changed, add it to push queue.
+
+2020-08-05 13:31:01,969 INFO serviceName: DEFAULT_GROUP@@shanheng-iot-gateway changed, schedule push for: 10.0.75.1:52424, agent: Nacos-Java-Client:v1.2.1, key: 10.0.75.1,52424,15206836115700
+
+2020-08-05 13:31:01,969 INFO send udp packet: 10.0.75.1,52424,15206836115700
+
+2020-08-05 13:31:01,970 INFO received ack: {"type": "push-ack", "lastRefTime":"15206836115700", "data":""} from: 10.0.75.1:52424, cost: 1 ms, unacked: 0, total push: 24
+

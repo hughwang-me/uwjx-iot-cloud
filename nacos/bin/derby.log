@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Aug 06 16:27:10 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-c2e1-943d-000015996e08 
+on database directory F:\uwjx_workspace\uwjx-iot-cloud\nacos\data\derby-data with class loader org.springframework.boot.loader.LaunchedURLClassLoader@377dca04 
+Loaded from jar:file:/F:/uwjx_workspace/uwjx-iot-cloud/nacos/target/nacos-server.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=F:\uwjx_workspace\uwjx-iot-cloud\nacos\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

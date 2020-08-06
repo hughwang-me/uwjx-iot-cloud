@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: uwjx-iot-cloud-common-utils

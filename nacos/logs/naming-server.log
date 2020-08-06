@@ -1,0 +1,42 @@
+2020-08-06 16:27:14,126 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-08-06 16:27:14,127 INFO listen for service meta change
+
+2020-08-06 16:41:46,190 INFO creating empty service public:DEFAULT_GROUP@@uwjx-iot-cloud-gateway
+
+2020-08-06 16:41:46,216 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@uwjx-iot-cloud-gateway","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1596703306195,"checksum":"9c0e6646dee41fd29882f953d4182c7d","clusterMap":{},"empty":true}
+
+2020-08-06 16:41:46,221 WARN cluster: DEFAULT not found, ip: {"instanceId":"10.0.75.1#8180#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-gateway","ip":"10.0.75.1","port":8180,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703306180,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}, will create new cluster with default configuration.
+
+2020-08-06 16:41:46,238 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@uwjx-iot-cloud-gateway, value: {"instanceList":[{"instanceId":"10.0.75.1#8180#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-gateway","ip":"10.0.75.1","port":8180,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703306180,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2020-08-06 16:43:57,070 INFO creating empty service public:DEFAULT_GROUP@@uwjx-iot-cloud-app-api
+
+2020-08-06 16:43:57,071 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@uwjx-iot-cloud-app-api","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1596703437070,"checksum":"2a0822f353d8ceb4110a6775f20cacb2","clusterMap":{},"empty":true}
+
+2020-08-06 16:43:57,071 WARN cluster: DEFAULT not found, ip: {"instanceId":"10.0.75.1#8182#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-app-api","ip":"10.0.75.1","port":8182,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-app-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703437070,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}, will create new cluster with default configuration.
+
+2020-08-06 16:43:57,071 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@uwjx-iot-cloud-app-api, value: {"instanceList":[{"instanceId":"10.0.75.1#8182#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-app-api","ip":"10.0.75.1","port":8182,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-app-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703437070,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2020-08-06 16:44:25,414 INFO creating empty service public:DEFAULT_GROUP@@uwjx-iot-cloud-web-api
+
+2020-08-06 16:44:25,414 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@uwjx-iot-cloud-web-api","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1596703465414,"checksum":"2f85e31c9997c39d8292693a5528160c","clusterMap":{},"empty":true}
+
+2020-08-06 16:44:25,414 WARN cluster: DEFAULT not found, ip: {"instanceId":"10.0.75.1#8181#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-web-api","ip":"10.0.75.1","port":8181,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-web-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703465414,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}, will create new cluster with default configuration.
+
+2020-08-06 16:44:25,414 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@uwjx-iot-cloud-web-api, value: {"instanceList":[{"instanceId":"10.0.75.1#8181#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-web-api","ip":"10.0.75.1","port":8181,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-web-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703465414,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2020-08-06 16:48:21,453 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api
+
+2020-08-06 16:48:23,806 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api
+
+2020-08-06 16:48:33,810 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api
+
+2020-08-06 16:48:35,465 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@uwjx-iot-cloud-web-api, ip: {"instanceId":"10.0.75.1#8181#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-web-api","ip":"10.0.75.1","port":8181,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-web-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703680548,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}
+
+2020-08-06 16:48:35,592 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@uwjx-iot-cloud-web-api, value: {"instanceList":[]}
+
+2020-08-06 16:49:02,004 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@uwjx-iot-cloud-web-api, value: {"instanceList":[{"instanceId":"10.0.75.1#8181#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-web-api","ip":"10.0.75.1","port":8181,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-web-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703742004,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2020-08-06 16:50:40,424 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@uwjx-iot-cloud-web-api, value: {"instanceList":[{"instanceId":"10.0.75.1#8181#DEFAULT#DEFAULT_GROUP@@uwjx-iot-cloud-web-api","ip":"10.0.75.1","port":8181,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@uwjx-iot-cloud-web-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596703840424,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
